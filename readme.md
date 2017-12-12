@@ -13,7 +13,7 @@ If you press the wrong arrow for a shape, your score will be subtracted by 1 poi
 
 The goal of the game is to get the most points in 30 seconds.
 
-Here is a demo of the game:
+[Here is a demo of the game:](https://shapesgame-basjauyulq.now.sh/)
 
 ![Shapes game](canvasShapesGame.gif)
 

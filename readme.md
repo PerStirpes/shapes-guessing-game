@@ -1,6 +1,6 @@
 # Shapes Speed Game
 
-Your job is to implement a game that tests your speed and accuracy!
+[Play game:](https://shapesgame-basjauyulq.now.sh/)
 
 The game presents one of 4 shapes to you. You must press the correct arrow key for the shape and color. The correct keys are as follows:
 
@@ -13,9 +13,9 @@ If you press the wrong arrow for a shape, your score will be subtracted by 1 poi
 
 The goal of the game is to get the most points in 30 seconds.
 
-[Here is a demo of the game:](https://shapesgame-basjauyulq.now.sh/)
 
-![Shapes game](canvasShapesGame.gif)
 
-https://shapesgame-zmgrgoquyy.now.sh/
+![pattern matching shapes game](canvasShapesGame.gif)
+
+
 

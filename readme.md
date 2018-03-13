@@ -1,6 +1,6 @@
-# Shapes Speed Game
+# Pattern matching shapes game
 
-[Play game:](https://shapesgame-basjauyulq.now.sh/)
+### [Play game](https://shapesgame-basjauyulq.now.sh/)
 
 The game presents one of 4 shapes to you. You must press the correct arrow key for the shape and color. The correct keys are as follows:
 

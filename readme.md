@@ -1,21 +1,20 @@
-# Pattern matching shapes game
+# Matching shapes game
 
 ### [Play game](https://shapesgame-basjauyulq.now.sh/)
 
-The game presents one of 4 shapes to you. You must press the correct arrow key for the shape and color. The correct keys are as follows:
+Rules: 30 seconds on the clock. The game has 4 shapes. You must press the correct arrow key for the shape and color. The correct keys are as follows:
 
 * Red Triangle -> Left Arrow
 * Red Square -> Down Arrow
 * White Triangle -> Up Arrow
 * White Square -> Right Arrow
 
-If you press the wrong arrow for a shape, your score will be subtracted by 1 point. If you press the correct arrow, your score will be increased by 1 point.
-
-The goal of the game is to get the most points in 30 seconds.
+An incorrectly pressed arrow, subtracts 1 point from your score. Pressing the correct arrow, increases your score by a point.
 
 
 
-![pattern matching shapes game](canvasShapesGame.gif)
+
+![matching shapes game](canvasShapesGame.gif)
 
 
 
